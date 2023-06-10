@@ -9,6 +9,7 @@ Para que seja possível rodar essa aplicação é necessário atender alguns req
 - Java 8+
 - Maven 3.3+
 
+
 # Compilando e inicializando
 
 Assim como todo projeto *Maven*, é necessário primeiramente realizarmos a geração dos fontes. Conforme o exemplo abaixo:
@@ -16,6 +17,7 @@ Assim como todo projeto *Maven*, é necessário primeiramente realizarmos a gera
 ```bash
 
 mvn clean install
+
 ```
 
 `[INSIRA PARTICILARIDADES DO PROJETO AQUI]`
